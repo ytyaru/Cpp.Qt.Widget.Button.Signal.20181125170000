@@ -2,6 +2,12 @@
 
 　Qt5学習。PushButtonをクリックするとTextEditに`test`というテキストがセットされる。
 
+![0](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181125/20181125165231.png)
+
+　ボタンをクリックするとTextEditにtestがセットされる。
+
+![1](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181125/20181125165259.png)
+
 # 開発環境
 
 * [Raspberry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 3 Model B+
