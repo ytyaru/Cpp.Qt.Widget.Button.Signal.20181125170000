@@ -8,6 +8,10 @@
     * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) GNU/Linux 9.0 (stretch) 2018-06-27
         * Qt 5.7.1
 
+## 環境構築
+
+* [Raspbian stretch で Qt5.7 インストールしたもの一覧](http://ytyaru.hatenablog.com/entry/2019/12/17/000000)
+
 # ライセンス
 
 　このソフトウェアはCC0ライセンスである。
